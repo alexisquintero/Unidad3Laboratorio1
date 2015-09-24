@@ -1,0 +1,10 @@
+c:\Proyectos\Unidades\Unidad03\Academia\Academia\bin\Debug\Academia.exe.config
+c:\Proyectos\Unidades\Unidad03\Academia\Academia\obj\Debug\Academia.csprojResolveAssemblyReference.cache
+c:\Proyectos\Unidades\Unidad03\Academia\Academia\obj\Debug\Academia.formLogin.resources
+c:\Proyectos\Unidades\Unidad03\Academia\Academia\obj\Debug\Academia.Properties.Resources.resources
+c:\Proyectos\Unidades\Unidad03\Academia\Academia\obj\Debug\Academia.csproj.GenerateResource.Cache
+c:\Proyectos\Unidades\Unidad03\Academia\Academia\bin\Debug\Academia.exe
+c:\Proyectos\Unidades\Unidad03\Academia\Academia\bin\Debug\Academia.pdb
+c:\Proyectos\Unidades\Unidad03\Academia\Academia\obj\Debug\Academia.exe
+c:\Proyectos\Unidades\Unidad03\Academia\Academia\obj\Debug\Academia.pdb
+c:\Proyectos\Unidades\Unidad03\Academia\Academia\obj\Debug\Academia.formMain.resources
